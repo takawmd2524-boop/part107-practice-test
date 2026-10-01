@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://takawmd2524-boop.github.io/part107-practice-test/sitemap.xml
